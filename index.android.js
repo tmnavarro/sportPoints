@@ -4,6 +4,6 @@
  */
 
 import { AppRegistry } from 'react-native';
-import SportPoints from './app';
+import SportPoints from './app/index.js';
 
 AppRegistry.registerComponent('sportPoints', () => SportPoints);
